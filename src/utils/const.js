@@ -53,7 +53,7 @@ export {
 };
 
 export const AVATAR =
-  'https://www.guibook.com/upload/image/202005/15908995427567320.jpg'; // Temp avatar
+  'https://www.guibook.com/upload/image/202006/15914333548517088.jpg'; // Temp avatar
 export const NAVS = [
   { text: 'About', link: 'https://github.com/yihong0618/running_page' },
 ];
